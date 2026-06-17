@@ -1,0 +1,5 @@
+cpu型号：13th Gen Intel(R) Core(TM) i5-13500HX (2.50 GHz)
+内存：16.0 GB (15.7 GB 可用)
+系统：windows
+解释器：python
+求解器版本：Pypardiso：0.4.7
